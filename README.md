@@ -1,5 +1,5 @@
 # 💫 About Me:
- Undergraduate Software Engineering student at Informatics<br> Institute of Technology, with strong background in Software<br> development, innovative problem-solving, adaptability to new<br> technology, and strong teamwork skills. I am looking forward to<br> apply my software development talents to practical problems. An<br> independent thinker who is willing to learn new things and<br> experiences though IT professionals
+ Undergraduate Software Engineering student at Informatics Institute of Technology , with strong background in Software development, innovative problem-solving , adaptability to new technology , and strong teamwork skills. I am looking forward to apply my software development talents to practical problems. An independent thinker who is willing to learn new things and experiences though IT professionals
 
 
 ## 🌐 Socials:
